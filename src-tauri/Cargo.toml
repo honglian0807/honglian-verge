@@ -1,10 +1,10 @@
 [package]
-name = "clash-verge"
+name = "Honglian Verge"
 version = "2.5.6"
 description = "clash verge"
 authors = ["zzzgydi", "Tunglies", "wonfen", "MystiPanda"]
 license = "GPL-3.0-only"
-repository = "https://github.com/clash-verge-rev/clash-verge-rev.git"
+repository = "https://github.com/honglian0807/honglian-verge.git"
 default-run = "clash-verge"
 build = "build.rs"
 edition = "2024"
